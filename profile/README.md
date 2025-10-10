@@ -23,30 +23,30 @@
 | 08 | 30/09/25 | Danielle |
 | 09 | 06/10/25 | Danielle |
 | 10 | 07/10/25 | Danielle |
-| 11 | 13/10/25 | [Aula 01 - Introdução ao HTML: estrutura básica, tags e elementos](#aula-01) |
-| 12 | 14/10/25 | [Aula 02 - HTML: listas, links e imagens](#aula-02) |
-| 13 | 20/10/25 | [Aula 03 - HTML: tabelas e formulários](#aula-03) |
-| 14 | 21/10/25 | [Aula 04 - HTML5: elementos semânticos e acessibilidade](#aula-04) | 
+| 11 | 13/10/25 | ? |
+| 12 | 14/10/25 | ? |
+| 13 | 20/10/25 | ? |
+| 14 | 21/10/25 | ? | 
 | -- | 27/10/25 | **feriado** |
-| 15 | 28/10/25 | [Aula 05 - Introdução ao CSS: seletores, propriedades e valores](#aula-05) | 
-| 16 | 03/11/25 | [Aula 06 - CSS: box model, margin, padding e border](#aula-06) |
-| 17 | 04/11/25 | [Aula 07 - CSS: cores, tipografia e backgrounds](#aula-07) |	 
+| 15 | 28/10/25 | ? | 
+| 16 | 03/11/25 | ? |
+| 17 | 04/11/25 | ? |	 
 | 18 | 08/11/25 | **sábado** Atividade |	 
-| 19 | 10/11/25 | [Aula 08 - CSS: Flexbox para layouts responsivos](#aula-08) |	 
-| 20 | 11/11/25 | [Aula 09 - CSS: Grid Layout e design responsivo](#aula-09) |
+| 19 | 10/11/25 | ? |	 
+| 20 | 11/11/25 | ? |
 | **2o bimestre** |||
-| 01 | 17/11/25               | [Aula 10 - CSS: transições, transformações e animações](#aula-10) |
-| 02 | 18/11/25               | [Aula 11 - Introdução ao JavaScript: variáveis, tipos de dados e operadores](#aula-11) |
-| 03 | 24/11/25               | [Aula 12 - JavaScript: estruturas condicionais e loops](#aula-12) | 
-| 04 | 25/11/25               | [Aula 13 - JavaScript: funções e escopo](#aula-13) |
-| 05 | 01/12/25               | [Aula 14 - JavaScript: manipulação do DOM](#aula-14) | 
-| 06 | 02/12/25               | [Aula 15 - JavaScript: eventos e interatividade](#aula-15) |
-| 07 | 08/12/25               | Projeto integrador - Parte 1 |
-| 08 | 09/12/25               | Projeto integrador - Parte 2 |
-| 09 | 15/12/25               | Apresentação de projetos |	 
-| 10 | 16/12/25               | Revisão geral |
-| 11 | 22/12/25               | Avaliação final |
-| 12 | 23/12/25               | Encerramento e feedback |
+| 01 | 17/11/25               | ? |
+| 02 | 18/11/25               | ? |
+| 03 | 24/11/25               | ? | 
+| 04 | 25/11/25               | ? |
+| 05 | 01/12/25               | ? | 
+| 06 | 02/12/25               | ? |
+| 07 | 08/12/25               | ? |
+| 08 | 09/12/25               | ? |
+| 09 | 15/12/25               | ? |
+| 10 | 16/12/25               | ? |
+| 11 | 22/12/25               | ? |
+| 12 | 23/12/25               | ? |
 | -- | 24/12/25<br />18/01/26 | **recesso** |
 | 13 | 19/01/26               | ? |
 | 04 | 20/01/26               | ? |
@@ -57,7 +57,7 @@
 | 09 | 09/02/26               | ? |
 | 20 | 10/02/26               | ? |
 
-## Conteúdo das Aulas
+## Conteúdo proposto pelo copilot das aulas
 
 ### Aula 01 - Introdução ao HTML: estrutura básica, tags e elementos
 **Objetivo:** Apresentar os fundamentos do HTML e a estrutura básica de uma página web.
