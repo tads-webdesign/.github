@@ -35,9 +35,9 @@
 | 19 | 10/11/25 | ? |	 
 | 20 | 11/11/25 | ? |
 | **2o bimestre** |||
-| 01 | 13/11/25               | Ferramentas básicas |
+| 01 | 13/11/25               | [Ferramentas básicas](#Ferrementas-básicas) |
 | 02 | 17/11/25               | HTML - Introdução   |
-| 03 | 18/11/25               | ? |
+| 03 | 18/11/25               | Atividade |
 | 04 | 24/11/25               | ? | 
 | 05 | 25/11/25               | ? |
 | 06 | 01/12/25               | ? | 
@@ -71,7 +71,7 @@
     - [deepseek](https://chat.deepseek.com/)
     - [cloude](https://claude.ai/onboarding)
     - [copilot](https://copilot.microsoft.com/)
-    - [gemini]9http://gemini.google.com/)
+    - [gemini](http://gemini.google.com/)
 
 ### Aula 01 - Introdução ao HTML: estrutura básica, tags e elementos
 **Objetivo:** Apresentar os fundamentos do HTML e a estrutura básica de uma página web.
