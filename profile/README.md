@@ -35,29 +35,43 @@
 | 19 | 10/11/25 | ? |	 
 | 20 | 11/11/25 | ? |
 | **2o bimestre** |||
-| 01 | 17/11/25               | ? |
-| 02 | 18/11/25               | ? |
-| 03 | 24/11/25               | ? | 
-| 04 | 25/11/25               | ? |
-| 05 | 01/12/25               | ? | 
-| 06 | 02/12/25               | ? |
-| 07 | 08/12/25               | ? |
-| 08 | 09/12/25               | ? |
-| 09 | 15/12/25               | ? |
-| 10 | 16/12/25               | ? |
-| 11 | 22/12/25               | ? |
-| 12 | 23/12/25               | ? |
+| 01 | 13/11/25               | Ferramentas básicas |
+| 02 | 17/11/25               | HTML - Introdução   |
+| 03 | 18/11/25               | ? |
+| 04 | 24/11/25               | ? | 
+| 05 | 25/11/25               | ? |
+| 06 | 01/12/25               | ? | 
+| 07 | 02/12/25               | ? |
+| 08 | 08/12/25               | ? |
+| 09 | 09/12/25               | ? |
+| 10 | 15/12/25               | ? |
+| 11 | 16/12/25               | ? |
+| 12 | 22/12/25               | ? |
+| 13 | 23/12/25               | ? |
 | -- | 24/12/25<br />18/01/26 | **recesso** |
-| 13 | 19/01/26               | ? |
-| 04 | 20/01/26               | ? |
-| 05 | 26/01/26               | ? |
-| 06 | 27/01/26               | ? |
-| 07 | 02/02/26               | ? |
-| 08 | 03/02/26               | ? |
-| 09 | 09/02/26               | ? |
-| 20 | 10/02/26               | ? |
+| 14 | 19/01/26               | ? |
+| 15 | 20/01/26               | ? |
+| 16 | 26/01/26               | ? |
+| 17 | 27/01/26               | ? |
+| 18 | 02/02/26               | ? |
+| 19 | 03/02/26               | ? |
+| 20 | 09/02/26               | ? |
+| 21 | 10/02/26               | ? |
 
 ## Conteúdo proposto pelo copilot das aulas
+
+### Ferrementas básicas
+- usadas na disicplina
+  - [github](https://github.com)
+  - [vercel](https://vercel.com)
+- Outras úteis
+  - [roadmap](https://roadmap.sh/)
+  - [visual studio code](https://code.visualstudio.com/)
+  - Ajudantes IA
+    - [deepseek](https://chat.deepseek.com/)
+    - [cloude](https://claude.ai/onboarding)
+    - [copilot](https://copilot.microsoft.com/)
+    - [gemini]9http://gemini.google.com/)
 
 ### Aula 01 - Introdução ao HTML: estrutura básica, tags e elementos
 **Objetivo:** Apresentar os fundamentos do HTML e a estrutura básica de uma página web.
