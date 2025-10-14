@@ -24,8 +24,8 @@
 | 09 | 06/10/25 | Danielle |
 | 10 | 07/10/25 | Danielle |
 | 11 | 13/10/25 | [Ferramentas básicas](#Ferrementas-básicas) |
-| 12 | 14/10/25 | HTML - Introdução [notas de aula](https://github.com/tads-webdesign/html-01-introducao) e [atividade](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao) |
-| 13 | 20/10/25 |  |
+| 12 | 14/10/25 | HTML - Introdução [notas de aula](https://github.com/tads-webdesign/html-01-introducao) |
+| 13 | 20/10/25 | HTML - Introdução [atividade](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao) |
 | 14 | 21/10/25 | ? | 
 | -- | 27/10/25 | **feriado** |
 | 15 | 28/10/25 | ? | 
