@@ -25,8 +25,8 @@
 | 10 | 07/10/25 | Danielle |
 | 11 | 13/10/25 | [Ferramentas básicas](#Ferrementas-básicas) |
 | 12 | 14/10/25 | HTML - Introdução [notas de aula](https://github.com/tads-webdesign/html-01-introducao) |
-| 13 | 20/10/25 | HTML - Introdução [atividade](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao)<br />**Luto** |
-| 14 | 21/10/25 | [CSS - Introdução](https://github.com/tads-webdesign/css-01-introducao/) | 
+| 13 | 20/10/25 | HTML - Introdução [atividade](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao)<br />[:arrow_forward:vídeo](https://youtu.be/-u50ZtfqD7k)<br />**Luto** |
+| 14 | 21/10/25 | CSS - Introdução [notas de aula](https://github.com/tads-webdesign/css-01-introducao/) | 
 | -- | 27/10/25 | **feriado** |
 | 15 | 28/10/25 | ? | 
 | 16 | 03/11/25 | ? |
@@ -62,6 +62,7 @@
 ---
 
 ### Ferrementas básicas
+- [playlist do youtube](https://www.youtube.com/playlist?list=PLjtXe-qYiYtb53an6IKmocGZt2ZHHtcKy)
 - usadas na disicplina
   - [github](https://github.com)
   - [vercel](https://vercel.com)
