@@ -26,13 +26,13 @@
 | 11 | 13/10/25 | [Ferramentas básicas](#Ferrementas-básicas) |
 | 12 | 14/10/25 | HTML - Introdução [notas de aula](https://github.com/tads-webdesign/html-01-introducao) |
 | 13 | 20/10/25 | HTML - Introdução [atividade](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao)<br />[:arrow_forward:vídeo](https://youtu.be/-u50ZtfqD7k)<br />**Luto** |
-| 14 | 21/10/25 | CSS - Introdução [notas de aula](https://github.com/tads-webdesign/css-01-introducao/) | 
+| 14 | 21/10/25 | CSS - Introdução [notas de aula](https://github.com/tads-webdesign/css-01-introducao/) e [atividade](https://github.com/tads-webdesign/2025.2-atividade-02-css-introducao) | 
 | -- | 27/10/25 | **feriado** |
-| 15 | 28/10/25 | ? | 
+| 15 | 28/10/25 | HTML [listas](https://github.com/tads-webdesign/html-02-listas/), [links e âncoras](https://github.com/tads-webdesign/html-03-listas/), [imagens](https://github.com/tads-webdesign/html-04-imagens) e [tabelas](https://github.com/tads-webdesign/html-04-tabelas)<br />CSS<br />atividade | 
 | 16 | 03/11/25 | ? |
 | 17 | 04/11/25 | ? |	 
 | 18 | 08/11/25 | **sábado** Atividade |	 
-| 19 | 10/11/25 | ? |
+| 19 | 10/11/25 | **data para entrega das atividades avaliativas** |
 | 20 | 11/11/25 | ? |
 | **2o bimestre** |||
 | 01 | 17/11/25               |   |
