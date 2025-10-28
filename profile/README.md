@@ -26,10 +26,10 @@
 | 11 | 13/10/25 | [Ferramentas básicas](#Ferrementas-básicas) |
 | 12 | 14/10/25 | HTML - Introdução [notas de aula](https://github.com/tads-webdesign/html-01-introducao) |
 | 13 | 20/10/25 | HTML - Introdução [atividade](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao)<br />[:arrow_forward:vídeo](https://youtu.be/-u50ZtfqD7k)<br />**Luto** |
-| 14 | 21/10/25 | CSS - Introdução [notas de aula](https://github.com/tads-webdesign/css-01-introducao/) e [atividade](https://github.com/tads-webdesign/2025.2-atividade-02-css-introducao) | 
+| 14 | 21/10/25 | CSS - Introdução [notas de aula](https://github.com/tads-webdesign/css-01-introducao/) | 
 | -- | 27/10/25 | **feriado** |
-| 15 | 28/10/25 | HTML [listas](https://github.com/tads-webdesign/html-02-listas/), [links e âncoras](https://github.com/tads-webdesign/html-03-links/), [imagens](https://github.com/tads-webdesign/html-04-imagens) e [tabelas](https://github.com/tads-webdesign/html-05-tabelas)<br />CSS<br />atividade | 
-| 16 | 03/11/25 | ? |
+| 15 | 28/10/25 | CSS - Introdução [atividade](https://github.com/tads-webdesign/2025.2-atividade-02-css-introducao) | 
+| 16 | 03/11/25 | HTML [listas](https://github.com/tads-webdesign/html-02-listas/), [links e âncoras](https://github.com/tads-webdesign/html-03-links/), [imagens](https://github.com/tads-webdesign/html-04-imagens) e [tabelas](https://github.com/tads-webdesign/html-05-tabelas)<br />CSS<br />atividade |
 | 17 | 04/11/25 | ? |	 
 | 18 | 08/11/25 | **sábado** Atividade |	 
 | 19 | 10/11/25 | **data para entrega das atividades avaliativas** |
