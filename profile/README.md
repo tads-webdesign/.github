@@ -33,7 +33,7 @@
 | 17 | 04/11/25 | [CSS: box model, margin, padding, border](https://github.com/tads-webdesign/css-02-box-model/) |	 
 | 18 | 08/11/25 | **sábado** Atividade [tabelas 03 e cards 04](https://github.com/tads-webdesign/2025.2-atividade-03) |
 | 19 | 10/11/25 | [Atividade 05](https://github.com/tads-webdesign/2025.2-atividade-03) |
-| 20 | 11/11/25 | [Atividade 06](https://github.com/tads-webdesign/2025.2-atividade-03)<br />**data para entrega das atividades avaliativas** |
+| 20 | 11/11/25 | [Atividade 06](https://github.com/tads-webdesign/2025.2-atividade-03)<br />**data para entrega das atividades avaliativas 14/11**<br />tarefa para segunda-feira, ver notas sobre CSS3 [cores](https://github.com/tads-webdesign/css-03-cores), [tipografia](https://github.com/tads-webdesign/css-04-tipografia) e [plano de fundo (background)](https://github.com/tads-webdesign/css-05-background) |
 | **2o bimestre** |||
 | 01 | 17/11/25               |   |
 | 02 | 18/11/25               |   |
