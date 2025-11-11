@@ -35,10 +35,10 @@
 | 19 | 10/11/25 | [Atividade 05](https://github.com/tads-webdesign/2025.2-atividade-03) |
 | 20 | 11/11/25 | [Atividade 06](https://github.com/tads-webdesign/2025.2-atividade-03)<br />**data para entrega das atividades avaliativas 14/11**<br />tarefa para segunda-feira, ver notas sobre CSS3 [cores](https://github.com/tads-webdesign/css-03-cores), [tipografia](https://github.com/tads-webdesign/css-04-tipografia) e [plano de fundo (background)](https://github.com/tads-webdesign/css-05-background) |
 | **2o bimestre** |||
-| 01 | 17/11/25               |   |
-| 02 | 18/11/25               |   |
-| 03 | 24/11/25               |   |
-| 04 | 25/11/25               | ? | 
+| 01 | 17/11/25               | prática com html e css |
+| 02 | 18/11/25               | prática com html e css |
+| 03 | 24/11/25               | prática com flexbox    |
+| 04 | 25/11/25               | prática com flexbox    | 
 | 05 | 01/12/25               | ? |
 | 06 | 02/12/25               | ? | 
 | 07 | 08/12/25               | ? |
