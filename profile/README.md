@@ -25,18 +25,18 @@
 | 10 | 07/10/25 | Danielle |
 | 11 | 13/10/25 | [Ferramentas básicas](#Ferrementas-básicas) |
 | 12 | 14/10/25 | HTML - Introdução [notas de aula](https://github.com/tads-webdesign/html-01-introducao) |
-| 13 | 20/10/25 | HTML - Introdução [atividade 1](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao)<br />[:arrow_forward:vídeo](https://youtu.be/-u50ZtfqD7k)<br />**Luto** |
+| 13 | 20/10/25 | HTML - Introdução [atividade 1-1](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao)<br />[:arrow_forward:vídeo](https://youtu.be/-u50ZtfqD7k)<br />**Luto** |
 | 14 | 21/10/25 | CSS - Introdução [notas de aula](https://github.com/tads-webdesign/css-01-introducao/) | 
 | -- | 27/10/25 | **feriado** |
-| 15 | 28/10/25 | CSS - Introdução [atividade 2](https://github.com/tads-webdesign/2025.2-atividade-02-css-introducao) | 
+| 15 | 28/10/25 | CSS - Introdução [atividade 1-2](https://github.com/tads-webdesign/2025.2-atividade-02-css-introducao) | 
 | 16 | 03/11/25 | HTML [listas](https://github.com/tads-webdesign/html-02-listas/), [links e âncoras](https://github.com/tads-webdesign/html-03-links/), [imagens](https://github.com/tads-webdesign/html-04-imagens) e [tabelas](https://github.com/tads-webdesign/html-05-tabelas) |
 | 17 | 04/11/25 | [CSS: box model, margin, padding, border](https://github.com/tads-webdesign/css-02-box-model/) |	 
-| 18 | 08/11/25 | **sábado** Atividade [tabelas 03 e cards 04](https://github.com/tads-webdesign/2025.2-atividade-03) |
-| 19 | 10/11/25 | [Atividade 05](https://github.com/tads-webdesign/2025.2-atividade-03) |
-| 20 | 11/11/25 | [Atividade 06](https://github.com/tads-webdesign/2025.2-atividade-03)<br />**data para entrega das atividades avaliativas 14/11**<br />tarefa para segunda-feira, ver notas sobre CSS3 [cores](https://github.com/tads-webdesign/css-03-cores), [tipografia](https://github.com/tads-webdesign/css-04-tipografia) e [plano de fundo (background)](https://github.com/tads-webdesign/css-05-background) |
+| 18 | 08/11/25 | **sábado** Atividades [tabelas 03 (1-3) e cards 04 (1-4)](https://github.com/tads-webdesign/2025.2-atividade-03) |
+| 19 | 10/11/25 | [Atividade 1-5](https://github.com/tads-webdesign/2025.2-atividade-03) |
+| 20 | 11/11/25 | [Atividade 1-6](https://github.com/tads-webdesign/2025.2-atividade-03)<br />**data para entrega das atividades avaliativas 14/11**<br />tarefa para segunda-feira, ver notas sobre CSS3 [cores](https://github.com/tads-webdesign/css-03-cores), [tipografia](https://github.com/tads-webdesign/css-04-tipografia) e [plano de fundo (background)](https://github.com/tads-webdesign/css-05-background) |
 | **2o bimestre** |||
-| 01 | 17/11/25               | prática com html e css |
-| 02 | 18/11/25               | prática com html e css |
+| 01 | 17/11/25               | Atividade 2-01 |
+| 02 | 18/11/25               | Atividade 2-01<br />tarefa para segunda-feira, ver notas sobre [flexbox](https://github.com/tads-webdesign/css-06-flexbox) |
 | 03 | 24/11/25               | prática com flexbox    |
 | 04 | 25/11/25               | prática com flexbox    | 
 | 05 | 01/12/25               | ? |
