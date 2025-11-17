@@ -35,10 +35,10 @@
 | 19 | 10/11/25 | [Atividade 1-5](https://github.com/tads-webdesign/2025.2-atividade-03) |
 | 20 | 11/11/25 | [Atividade 1-6](https://github.com/tads-webdesign/2025.2-atividade-03)<br />**data para entrega das atividades avaliativas 14/11**<br />tarefa para segunda-feira, ver notas sobre CSS3 [cores](https://github.com/tads-webdesign/css-03-cores), [tipografia](https://github.com/tads-webdesign/css-04-tipografia) e [plano de fundo (background)](https://github.com/tads-webdesign/css-05-background) |
 | **2o bimestre** |||
-| 01 | 17/11/25               | Atividade 2-01 |
-| 02 | 18/11/25               | Atividade 2-01<br />tarefa para segunda-feira, ver notas sobre [flexbox](https://github.com/tads-webdesign/css-06-flexbox) |
-| 03 | 24/11/25               | prática com flexbox    |
-| 04 | 25/11/25               | prática com flexbox    | 
+| 01 | 17/11/25               | [Atividade 2-01](https://github.com/tads-webdesign/2025.2.2.1-atividade/) |
+| 02 | 18/11/25               | [Atividade 2-01](https://github.com/tads-webdesign/2025.2.2.1-atividade/)<br />tarefa para segunda-feira, ver notas sobre [flexbox](https://github.com/tads-webdesign/css-06-flexbox) |
+| 03 | 24/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox) |
+| 04 | 25/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox) | 
 | 05 | 01/12/25               | ? |
 | 06 | 02/12/25               | ? | 
 | 07 | 08/12/25               | ? |
