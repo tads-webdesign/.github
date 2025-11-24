@@ -37,7 +37,7 @@
 | **2o bimestre** |||
 | 01 | 17/11/25               | [Atividade 2-01](https://github.com/tads-webdesign/2025.2.2.1-atividade/) |
 | 02 | 18/11/25               | [Atividade 2-01](https://github.com/tads-webdesign/2025.2.2.1-atividade/) entrega até dia 24/11<br />tarefa para segunda-feira, ver notas sobre [flexbox](https://github.com/tads-webdesign/css-06-flexbox) |
-| 03 | 24/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox) |
+| 03 | 24/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox)<br />[flexbox froggy](https://github.com/tads-webdesign/2025-2-game-froggy) |
 | 04 | 25/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox) entrega até dia 01/12 | 
 | 05 | 01/12/25               | ? |
 | 06 | 02/12/25               | ? | 
