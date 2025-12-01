@@ -40,8 +40,8 @@
 | 03 | 24/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox)<br />[flexbox froggy](https://github.com/tads-webdesign/2025-2-game-froggy) |
 | 04 | 25/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox) entrega até dia 01/12 | 
 | 05 | 01/12/25               | Grid layout [notas de aula](https://github.com/tads-webdesign/css-07-grid-layout) [prática 1 - presença - css grid garden](https://github.com/tads-webdesign/2025-2-game-gridgarden) [atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) |
-| 06 | 02/12/25               | [atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) | 
-| 07 | 08/12/25               | ? |
+| 06 | 02/12/25               | [atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) com grid layout e flex box | 
+| 07 | 08/12/25               | [atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) com grid layout e flex box |
 | 08 | 09/12/25               | ? |
 | 09 | 15/12/25               | ? |
 | 10 | 16/12/25               | ? |
