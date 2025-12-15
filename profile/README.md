@@ -40,13 +40,13 @@
 | 03 | 24/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox)<br />[prática de presença - flexbox froggy](https://github.com/tads-webdesign/2025-2-game-froggy) |
 | 04 | 25/11/25               | [Atividade 2-02 flexbox](https://github.com/tads-webdesign/2025.2.2.2-atividade-flexbox) entrega até dia 01/12 | 
 | 05 | 01/12/25               | Grid layout [notas de aula](https://github.com/tads-webdesign/css-07-grid-layout)<br/>[prática de presença - css grid garden](https://github.com/tads-webdesign/2025-2-game-gridgarden)<br/>[atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) |
-| 06 | 02/12/25               | [atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) com grid layout e flex box | 
-| 07 | 08/12/25               | ? |
-| 08 | 09/12/25               | ? |
-| 09 | 15/12/25               | ? |
-| 10 | 16/12/25               | ? |
-| 11 | 22/12/25               | ? |
-| 12 | 23/12/25               | ? |
+| 06 | 02/12/25               | transformar protótipo em html+css [atividade 2-03](https://github.com/tads-webdesign/2025.2.2.3-atividade-grid) com grid layout e flex box | 
+| 07 | 08/12/25               | jogos internos |
+| 08 | 09/12/25               | jogos internos |
+| 09 | 15/12/25               | transformar protótipo em html+css [atividade 2-04](https://github.com/tads-webdesign/2025.2.2.4-atividade-spotify) |
+| 10 | 16/12/25               | transformar protótipo em html+css [atividade 2-04](https://github.com/tads-webdesign/2025.2.2.4-atividade-spotify) |
+| 11 | 22/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
+| 12 | 23/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
 | -- | 24/12/25<br />18/01/26 | **recesso** |
 | 13 | 19/01/26               | ? |
 | 14 | 20/01/26               | ? |
