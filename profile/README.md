@@ -48,7 +48,7 @@
 | 11 | 22/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
 | 12 | 23/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
 | -- | 24/12/25<br />18/01/26 | **recesso** |
-| 13 | 19/01/26               | javascript [introdução](https://github.com/tads-webdesign/js-01-introducao) e [estruturas condicionais e laços](https://github.com/tads-webdesign/js-02-sintaxe-condicionais-laco) |
+| 13 | 19/01/26               | javascript [introdução](https://github.com/tads-webdesign/js-01-introducao), [estruturas condicionais e laços](https://github.com/tads-webdesign/js-02-sintaxe-condicionais-laco), e [funções e escopo](https://github.com/tads-webdesign/js-03-sintaxe-funcoes-escopo) |
 | 14 | 20/01/26               | ? |
 | 15 | 26/01/26               | ? |
 | 16 | 27/01/26               | ? |
@@ -162,7 +162,7 @@
 - Animações CSS: @keyframes, animation
 - Prática: Animar elementos da interface
 
-### Aula 11 - Introdução ao JavaScript: variáveis, tipos de dados e operadores
+### Aula 11 - [Introdução ao JavaScript: variáveis, tipos de dados e operadores](https://github.com/tads-webdesign/js-01-introducao)
 **Objetivo:** Introduzir a programação com JavaScript.
 - O que é JavaScript e onde é usado
 - Variáveis: var, let, const
@@ -172,7 +172,7 @@
 - Console.log para debugging
 - Prática: Exercícios básicos de programação
 
-### Aula 12 - JavaScript: estruturas condicionais e loops
+### Aula 12 - [JavaScript: estruturas condicionais e loops](https://github.com/tads-webdesign/js-02-sintaxe-condicionais-laco)
 **Objetivo:** Controlar o fluxo de execução do código.
 - Estruturas condicionais: if, else if, else
 - Operador ternário
@@ -181,7 +181,7 @@
 - Break e continue
 - Prática: Criar validações e loops para processar dados
 
-### Aula 13 - JavaScript: funções e escopo
+### Aula 13 - [JavaScript: funções e escopo](https://github.com/tads-webdesign/js-03-sintaxe-funcoes-escopo)
 **Objetivo:** Organizar código com funções.
 - Declaração de funções
 - Parâmetros e argumentos
