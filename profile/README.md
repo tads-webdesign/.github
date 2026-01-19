@@ -48,7 +48,7 @@
 | 11 | 22/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
 | 12 | 23/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
 | -- | 24/12/25<br />18/01/26 | **recesso** |
-| 13 | 19/01/26               | ? |
+| 13 | 19/01/26               | javascript [introdução](https://github.com/tads-webdesign/js-01-introducao) |
 | 14 | 20/01/26               | ? |
 | 15 | 26/01/26               | ? |
 | 16 | 27/01/26               | ? |
