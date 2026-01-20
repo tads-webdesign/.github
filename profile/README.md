@@ -49,9 +49,9 @@
 | 12 | 23/12/25               | transformar protótipo em html+css [atividade 2-05](https://github.com/tads-webdesign/2025.2.2.5-atividade-tiktok) |
 | -- | 24/12/25<br />18/01/26 | **recesso** |
 | 13 | 19/01/26               | javascript [introdução](https://github.com/tads-webdesign/js-01-introducao), [estruturas condicionais e laços](https://github.com/tads-webdesign/js-02-sintaxe-condicionais-laco), [funções e escopo](https://github.com/tads-webdesign/js-03-sintaxe-funcoes-escopo), e [array](https://github.com/tads-webdesign/js-04-array) |
-| 14 | 20/01/26               | ? |
-| 15 | 26/01/26               | ? |
-| 16 | 27/01/26               | ? |
+| 14 | 20/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01) |
+| 15 | 26/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01) |
+| 16 | 27/01/26               | [21ª wtads / winfo](https://www.instagram.com/wtadswinfo/) |
 | 17 | 02/02/26               | ? |
 | 18 | 03/02/26               | ? |
 | 19 | 09/02/26               | ? |
