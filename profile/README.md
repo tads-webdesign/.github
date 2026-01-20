@@ -191,7 +191,7 @@
 - Funções callback
 - Prática: Criar funções reutilizáveis
 
-### Aula 14 - JavaScript: manipulação do DOM
+### Aula 14 - [JavaScript: manipulação do DOM](https://github.com/tads-webdesign/js-dom-02-manipulacao)
 **Objetivo:** Interagir com elementos HTML usando JavaScript.
 - O que é o DOM (Document Object Model)
 - Selecionando elementos: getElementById, querySelector, querySelectorAll
@@ -200,7 +200,7 @@
 - Criando e removendo elementos: createElement, appendChild, removeChild
 - Prática: Criar lista de tarefas dinâmica
 
-### Aula 15 - JavaScript: eventos e interatividade
+### Aula 15 - [JavaScript: eventos e interatividade](https://github.com/tads-webdesign/js-dom-03-eventos)
 **Objetivo:** Tornar páginas web interativas com eventos.
 - O que são eventos
 - Event listeners: addEventListener
