@@ -50,7 +50,7 @@
 | -- | 24/12/25<br />18/01/26 | **recesso** |
 | 13 | 19/01/26               | javascript [introdução](https://github.com/tads-webdesign/js-01-introducao), [estruturas condicionais e laços](https://github.com/tads-webdesign/js-02-sintaxe-condicionais-laco), [funções e escopo](https://github.com/tads-webdesign/js-03-sintaxe-funcoes-escopo), e [array](https://github.com/tads-webdesign/js-04-array) |
 | 14 | 20/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01) |
-| 15 | 26/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01) |
+| 15 | 26/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01)<br />[Manipulação do DOM com JavaScript](https://github.com/tads-webdesign/js-dom-02-manipulacao)<br />[Tornando Páginas Web Interativas com Eventos](https://github.com/tads-webdesign/js-dom-03-eventos) |
 | 16 | 27/01/26               | [21ª wtads / winfo](https://www.instagram.com/wtadswinfo/) |
 | 17 | 02/02/26               | ? |
 | 18 | 03/02/26               | ? |
