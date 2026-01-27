@@ -210,3 +210,8 @@
 - Validação de formulários com JavaScript
 - Prática: Criar formulário interativo com validação
 
+### Aula 16 - [JavaScript: consumindo API](https://github.com/tads-webdesign/js-repositorio-externo)
+**Objetivo:** armazenamento de dados externo ao navegador.
+
+### Aula 17 - [JavaScript: armazenando dados no navegador](https://github.com/tads-webdesign/js-repositorio-interno/)
+**Objetivo:** armazenamento de dados interno ao navegador.
