@@ -52,10 +52,10 @@
 | 14 | 20/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01) |
 | 15 | 26/01/26               | [manipulando dom com js](https://github.com/tads-webdesign/js-dom-01)<br />[Manipulação do DOM com JavaScript](https://github.com/tads-webdesign/js-dom-02-manipulacao)<br />[Tornando Páginas Web Interativas com Eventos](https://github.com/tads-webdesign/js-dom-03-eventos) |
 | 16 | 27/01/26               | [21ª wtads / winfo](https://www.instagram.com/wtadswinfo/) |
-| 17 | 02/02/26               | ? |
-| 18 | 03/02/26               | ? |
-| 19 | 09/02/26               | ? |
-| 20 | 10/02/26               | ? |
+| 17 | 02/02/26               | [consumindo api](https://github.com/tads-webdesign/js-repositorio-externo)<br />[indexedDb](https://github.com/tads-webdesign/js-repositorio-interno/)<br />**Atividade** [desenvolvimento de aplicatio web](https://github.com/tads-webdesign/2025.2.2.5-atividade-aplicativo/) |
+| 18 | 03/02/26               | [desenvolvimento de aplicatio web](https://github.com/tads-webdesign/2025.2.2.5-atividade-aplicativo/) |
+| 19 | 09/02/26               | [desenvolvimento de aplicatio web](https://github.com/tads-webdesign/2025.2.2.5-atividade-aplicativo/) |
+| 20 | 10/02/26               | apresentação dos aplicativos |
 | **Reposição e prova final** |||
 | 01 | 13/02/26 | Prova prática |
 
